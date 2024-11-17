@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sander, currently a student at DAE.
+I'm an aspiring game developer, learning such things as C# and 3D modelling!
